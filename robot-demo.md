@@ -74,4 +74,6 @@ Current approaches to encode skills can be classifies in two parts:
 * typically works that combine RL, assume that we have a reward function for the task that we have. 
 * but in Inverse RL we determine the reward and the optimal control policy at the same time.
 * one of the critical assumptions is that this assumes that all xperts optimize the same objectives. and this is being overcome in recent works
-* 
+
+
+#### This note is taken from this [source](http://www.scholarpedia.org/article/Robot_learning_by_demonstration)
